@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑";
+	font-size: 14p;
+	color: #222;
+	background-color: #fff;
+	line-height: 1.5;
+}
+.wrap{
+	padding: 15px;
+}
+h3{
+	font-weight: normal;
+}
